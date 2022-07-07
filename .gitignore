@@ -1,0 +1,10 @@
+﻿Library
+Logs
+Packages
+Temp
+UserSettings
+.vsconfig
+*.sln
+*.suo
+*.csproj
+*.DS_Store
